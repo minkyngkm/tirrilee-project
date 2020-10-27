@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mypage_disabled" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#c6c6c6;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="그룹_1499" transform="translate(2.193 2.372)">
+        <g id="그룹_1423">
+            <g id="그룹_73441">
+                <circle id="타원_558" cx="5.134" cy="5.134" r="5.134" class="cls-2" transform="translate(8.866 3.489)"/>
+                <path id="패스_1445" d="M1637.123 999.827a13.044 13.044 0 0 1 11.264 6.457 14 14 0 1 0-22.528 0 13.045 13.045 0 0 1 11.264-6.457z" class="cls-2" transform="translate(-1623.123 -983.967)"/>
+                <path id="패스_1446" d="M1641.5 1037.342a13.983 13.983 0 0 0 11.265-5.683 13.06 13.06 0 0 0-22.531 0 13.985 13.985 0 0 0 11.266 5.683z" class="cls-2" transform="translate(-1627.503 -1009.343)"/>
+            </g>
+        </g>
+    </g>
+</svg>

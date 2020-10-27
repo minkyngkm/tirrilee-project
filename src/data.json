@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "_id": "product1",
+      "category": "티셔츠",
+      "image": "../../img/products/black-tshirt.png",
+      "title": "티릴리 검정 티셔츠",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 20000,
+      "rating": 4.9,
+      "star": false,
+      "best": true,
+      "new": false
+    },
+    {
+      "_id": "product2",
+      "category": "티셔츠",
+      "image":  "../../img/products/hoodie.png",
+      "title": "티릴리 후드티",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 20000,
+      "rating": 4.9,
+      "star": false,
+      "best": true,
+      "new": false
+    },
+    {
+      "_id": "product3",
+      "category": "티셔츠",
+      "image": "../../img/products/black-tshirt.png",
+      "title": "티릴리 반팔 티셔츠",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 20000,
+      "rating": 4.9,
+      "star": false,
+      "best": false,
+      "new": false
+    },
+    {
+      "_id": "product4",
+      "category": "에코백",
+      "image":  "../../img/products/black-echobag.png",
+      "title": "블랙 에코백",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "free"
+      ],
+      "price": 10000,
+      "rating": 4.9,
+      "star": false,
+      "best": true,
+      "new": false
+    },
+    {
+      "_id": "product5",
+      "category": "에코백",
+      "image":  "../../img/products/white-echobag.png",
+      "title": "화이트에코백",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "free"
+      ],
+      "price": 10000,
+      "rating": 4.9,
+      "star": false,
+      "best": false,
+      "new": false
+    },
+    {
+      "_id": "product6",
+      "category": "티셔츠",
+      "image":  "../../img/products/white-tshirt.png",
+      "title": "티릴리 반팔",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 20000,
+      "rating": 4.9,
+      "star": false,
+      "best": false,
+      "new": true
+    },
+    {
+      "_id": "product7",
+      "category": "굿즈",
+      "image":  "../../img/products/mug.jpg",
+      "title": "티릴리 머그컵",
+      "description": "이 상품은 매우 예뻐요. 2030대 여성이 착용하기에 좋고요. 훌륭합니다. 우리가게에 놀러와보세요.",
+      "availableSizes": [
+        "Free"
+      ],
+      "price": 20000,
+      "rating": 4.9,
+      "star": false,
+      "best": false,
+      "new" : true
+    }
+  ]
+}

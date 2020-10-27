@@ -2,7 +2,7 @@
 
 사용한 기술 : react, context api hooks, google oAuth api, react-router 
 
-시안은 앱화면으로 주어졌는데 리액트 네이티브를 대신 리엑트로만 웹상에서 모바일 화면에 맞춰서 구현하였다. 
+시안은 앱화면으로 주어졌는데 리액트 네이티브를 대신 리트로만 웹상에서 모바일 화면에 맞춰서 구현하였다. 
 구현한 화면은  로그인(/login), 회원가입(/signup), 홈(/home), 상품상세페이지(/category/product), 검색(/search) 
 
 
